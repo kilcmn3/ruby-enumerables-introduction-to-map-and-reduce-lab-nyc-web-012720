@@ -13,9 +13,11 @@ def map_to_negativize(source_array)
 end
 
 def map_to_no_change(source_array)
+  new_array = source_array.clone
   source_array
 end
 
 def map_to_no_change(source_array)
-  pp source_array
+  i = 0
+
 end
