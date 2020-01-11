@@ -64,5 +64,5 @@ def reduce_to_any_true(source_array)
   while i < source_array.length do
     print !source_array[i]
   i += 1
-
+end
 end
