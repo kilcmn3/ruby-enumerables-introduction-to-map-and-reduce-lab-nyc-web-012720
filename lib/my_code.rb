@@ -60,7 +60,7 @@ end
 
 def reduce_to_any_true(source_array)
   i = 0
-  result = nil
+  result = false
   while i < source_array.length do
     if source_array[i] == true
     result = nil
