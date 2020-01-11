@@ -66,4 +66,5 @@ def reduce_to_any_true(source_array)
   else
     return true
   end
+  end
 end
