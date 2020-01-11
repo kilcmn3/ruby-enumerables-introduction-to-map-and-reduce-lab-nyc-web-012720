@@ -68,5 +68,5 @@ def reduce_to_any_true(source_array)
     print result
   i += 1
 end
-
+print result
 end
