@@ -63,7 +63,7 @@ def reduce_to_any_true(source_array)
   result = false
   while i < source_array.length do
     if source_array[i] == true
-    print  result = source_array[i]
+    result = source_array[i]
     end
     print reuslt
   i += 1
