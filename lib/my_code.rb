@@ -65,7 +65,8 @@ def reduce_to_any_true(source_array)
     if source_array[i] == true
     print  result = source_array[i]
     end
+    print reuslt
   i += 1
 end
-result
+
 end
